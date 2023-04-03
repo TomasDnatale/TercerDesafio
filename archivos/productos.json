@@ -1,0 +1,101 @@
+[
+	{
+		"id": 1,
+		"title": "Monitor Gamer",
+		"description": "LG 24GN600-B 24 144Hz",
+		"price": 138000,
+		"thumbnail": "https://www.venex.com.ar/products_images/1654793081_grt.png",
+		"code": "24GN600",
+		"stock": 50
+	},
+	{
+		"id": 2,
+		"title": "Monitor Ultrawide",
+		"description": " Monitor 29 LED LG 29WP500-B WIDE",
+		"price": 121000,
+		"thumbnail": "https://www.venex.com.ar/products_images/1647540411_fghfghfg.png",
+		"code": "29WP500",
+		"stock": 25
+	},
+	{
+		"id": 3,
+		"title": "Placa De Video",
+		"description": "Powercolor AMD Radeon RX 6700 10Gb GDDR6 2235 OEM",
+		"price": 196000,
+		"thumbnail": "https://www.venex.com.ar/products_images/1663252902_1645550587_powercolor-amd-radeon-bc-2235-10gb-gddr6.jpg",
+		"code": "1A1-G00368500B",
+		"stock": 25
+	},
+	{
+		"id": 4,
+		"title": "Placa De Video",
+		"description": "LHR GeForce RTX 3070 8Gb Asus Tuf Gaming Oc",
+		"price": 330000,
+		"thumbnail": "https://mexx-img-2019.s3.amazonaws.com/placa-video-geforce-rtx_41399_1.jpeg",
+		"code": "TUF-RTX3070-O8G-V2-GAMING",
+		"stock": 25
+	},
+	{
+		"id": 5,
+		"title": "Memoria Ram",
+		"description": "DDR4 - 8Gb 3000 Mhz Corsair Vengeance LPX Negro",
+		"price": 22000,
+		"thumbnail": "https://mexx-img-2019.s3.amazonaws.com/memoria-ram-gamer_39378_1.jpeg",
+		"code": "CMK8GX4",
+		"stock": 25
+	},
+	{
+		"id": 6,
+		"title": "Memoria Ram",
+		"description": "DDR4 - 16Gb 2x8 3000 Mhz Corsair Vengeance Rgb Pro Negro",
+		"price": 42000,
+		"thumbnail": "https://mexx-img-2019.s3.amazonaws.com/memoria-rgb_40893_1.jpeg",
+		"code": "CMW16GX4",
+		"stock": 25
+	},
+	{
+		"id": 7,
+		"title": "Silla Gamer",
+		"description": "Level Up Apolo Negro C/apoya Pies",
+		"price": 80000,
+		"thumbnail": "https://mexx-img-2019.s3.amazonaws.com/Silla-Gamer-Level-Up-Apolo-Negro-Pies_42811_1.jpeg",
+		"code": "SILLEV1",
+		"stock": 25
+	},
+	{
+		"id": 8,
+		"title": "Teclado Inalambrico",
+		"description": "Logitech Pop Keys Inalámbrico Negro Amarillo",
+		"price": 35000,
+		"thumbnail": "https://mexx-img-2019.s3.amazonaws.com/Teclado-Logitech-Pop-Keys-Inalambrico-Negro-Amarillo_42383_1.jpeg",
+		"code": "920-010713",
+		"stock": 25
+	},
+	{
+		"id": 9,
+		"title": "Mouse Usb",
+		"description": "Logitech M90 Dark Midnight Negro",
+		"price": 2200,
+		"thumbnail": "https://mexx-img-2019.s3.amazonaws.com/mouse-negro_29660_3.jpeg",
+		"code": "MOULOGI",
+		"stock": 25
+	},
+	{
+		"id": 10,
+		"title": "Teclado Gamer",
+		"description": "Redragon K589 Shrapnel Rgb",
+		"price": 23000,
+		"thumbnail": "https://mexx-img-2019.s3.amazonaws.com/39011_1.jpeg",
+		"code": "K589RGB",
+		"stock": 25
+	},
+	{
+		"id": 11,
+		"title": "Auricular Gamer",
+		"description": "Astro A50 Xbox + Base Inalámbrico",
+		"price": 97000,
+		"thumbnail": "https://mexx-img-2019.s3.amazonaws.com/auricular-astro-a50-mixamp-base-xbox_42347_1.jpeg",
+		"code": "ASTROA50",
+		"stock": 25
+	}
+]
